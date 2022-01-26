@@ -15,3 +15,4 @@ This Project checks if a minecraft account is a nfa/sfa account or invalid it al
 it works by havin one minecraft account which is always valid then programm the programm checks the given combo and if it is invalid then it checks the combo which is always valid if that combo gets shown as invalid then it will return shadow banned proxy
 
 
+## i dont take any responsibility for damage done with the programm it's for educational purposes only and its just a proove of concept of how it would be possible to detect if mojang shadow banns you do not use this programm for account cracking

@@ -17,7 +17,6 @@ while True:
             
             
             data = response.json()
-            uuid = data['selectedProfile']['id']
             token = data['accessToken']
             headers = {'Pragma': 'no-cache', "Authorization": f"Bearer {token}"}
     
